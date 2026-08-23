@@ -68,14 +68,14 @@
   etymology: aga + imut
   etym_tags: 'compound, lexical compound'
   etym_source: ''
-- lemma: aganulisa
+- lemma: aganulica
   id: 540
   pos: noun
   en_definition: 'highway, freeway'
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: aga + ulisa
+  etymology: aga + ulica
   etym_tags: 'compound, lexical compound'
   etym_source: ''
 - lemma: ak
@@ -690,7 +690,7 @@
   etymology: at + si
   etym_tags: 'compound, lexical compound'
   etym_source: ''
-- lemma: aveli
+- lemma: aweli
   id: 29.1
   pos: particle
   en_definition: Used to form the comparative
@@ -700,7 +700,7 @@
   etymology: Armenian ավելի (aveli)
   etym_tags: 'armenian, indo-european'
   etym_source: Wiktionary
-- lemma: aveli
+- lemma: aweli
   id: 29.2
   pos: adjective
   en_definition: 'more; to a greater extent; multiple, several, more than one, plural'
@@ -710,7 +710,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: avelinimutapi
+- lemma: awelinimutapi
   id: 564
   pos: 'verb, intr.'
   en_definition: to improve (oneself)
@@ -720,7 +720,7 @@
   etymology: aveli + imutapi
   etym_tags: 'compound, lexical compound'
   etym_source: ''
-- lemma: avelinimutigi
+- lemma: awelinimutigi
   id: 563
   pos: 'verb, trans.'
   en_definition: to improve sth.
@@ -730,7 +730,7 @@
   etymology: aveli + imutigi
   etym_tags: 'compound, lexical compound'
   etym_source: ''
-- lemma: avelis
+- lemma: awelis
   id: 30.1
   pos: particle
   en_definition: Used to form the superlative
@@ -740,7 +740,7 @@
   etymology: aveli + -(a)s
   etym_tags: 'compound, derivation'
   etym_source: Wiktionary
-- lemma: avelis
+- lemma: awelis
   id: 30.2
   pos: adjective
   en_definition: most; to the greatest extent
@@ -800,7 +800,7 @@
   etymology: Persian بادنجان (bādinjān)
   etym_tags: 'persian, iranian, indo-european'
   etym_source: Wiktionary
-- lemma: balva
+- lemma: balwa
   id: 32.1
   pos: 'verb, avalent'
   en_definition: 'to be cloudy, be foggy'
@@ -810,7 +810,7 @@
   etymology: Northern Sami balva
   etym_tags: 'northern sami, sami, uralic'
   etym_source: Wiktionary
-- lemma: balva
+- lemma: balwa
   id: 32.2
   pos: 'verb, intransitive'
   en_definition: 'to cloud up, become foggy'
@@ -820,7 +820,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: balva
+- lemma: balwa
   id: 32.3
   pos: noun
   en_definition: 'cloud, fog; (talkatel~) Uranus'
@@ -1068,36 +1068,6 @@
   etymology: English jacket
   etym_tags: 'english, germanic, indo-european'
   etym_source: Wiktionary
-- lemma: cala
-  id: 493.1
-  pos: 'verb, intr.'
-  en_definition: 'to shine, glow, give off light'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Kaitag шала (šala)
-  etym_tags: 'kaitag, dargin, northeast caucasian'
-  etym_source: Wiktionary
-- lemma: cala
-  id: 493.2
-  pos: noun
-  en_definition: 'light, gleam, glow, illumination; lamp, lightbulb, light; color, hue, tint'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-  etym_source: ''
-- lemma: cala
-  id: 493.3
-  pos: adjective
-  en_definition: 'bright; light (of color); clear, illuminated, easily seen'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-  etym_source: ''
 - lemma: camal
   id: 359
   pos: noun
@@ -1128,16 +1098,6 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: caval
-  id: 388
-  pos: noun
-  en_definition: 'horse, steed'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: French cheval
-  etym_tags: 'french, romance, indo-european'
-  etym_source: Wiktionary
 - lemma: ceba
   id: 266
   pos: 'verb, ambi.'
@@ -1148,46 +1108,6 @@
   etymology: Georgian ჯდება (ǯdeba)
   etym_tags: 'georgian, kartvelian'
   etym_source: Wiktionary
-- lemma: cema
-  id: 361.1
-  pos: 'verb, ambi.'
-  en_definition: 'to listen, hear, listen to'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Hebrew שמע (shemá)
-  etym_tags: 'hebrew, semitic, afroasiatic'
-  etym_source: Wiktionary
-- lemma: cema
-  id: 361.2
-  pos: noun
-  en_definition: 'audio, sound; ear'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-  etym_source: ''
-- lemma: cemaga
-  id: 557
-  pos: adjective
-  en_definition: 'loud, blaring'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: cema + -(a)ga
-  etym_tags: 'compound, derivation'
-  etym_source: ''
-- lemma: cemanik
-  id: 556
-  pos: adjective
-  en_definition: 'quiet, silent'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: cema + -(n)ik
-  etym_tags: 'compound, derivation'
-  etym_source: ''
 - lemma: cokolat
   id: 528
   pos: noun
@@ -1198,36 +1118,6 @@
   etymology: Nahuatl chocolātl
   etym_tags: 'nahuatl, southern uto-aztecan, uto-aztecan'
   etym_source: Wiktionary
-- lemma: col
-  id: 375.1
-  pos: 'verb, ambi.'
-  en_definition: 'to work, labor, labour, be employed'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Maltese xogħol
-  etym_tags: 'maltese, semitic, afroasiatic'
-  etym_source: Wiktionary
-- lemma: col
-  id: 375.2
-  pos: noun
-  en_definition: 'employment, work, labor, labour'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-  etym_source: ''
-- lemma: col
-  id: 375.3
-  pos: adjective
-  en_definition: 'tiring, exhausting, involving labor'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-  etym_source: ''
 - lemma: con
   id: 362.1
   pos: 'verb, trans., til'
@@ -1278,16 +1168,6 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: cunmav
-  id: 365
-  pos: noun
-  en_definition: panda
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Mandarin 熊貓 (xióngmāo)
-  etym_tags: 'mandarin, sinitic, sino-tibetan'
-  etym_source: Wiktionary
 - lemma: da
   id: 42
   pos: preposition
@@ -1874,7 +1754,7 @@
   etymology: SI Prefix hecto-
   etym_tags: a priori
   etym_source: Wiktionary
-- lemma: evo
+- lemma: ewo
   id: 416.1
   pos: 'verb, intr.'
   en_definition: 'to make money, have income'
@@ -1884,7 +1764,7 @@
   etymology: Nupe ewó
   etym_tags: 'nupe, nupoid, volta-niger, atlantic-congo'
   etym_source: Wiktionary
-- lemma: evo
+- lemma: ewo
   id: 416.2
   pos: noun
   en_definition: >-
@@ -1896,7 +1776,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: evo
+- lemma: ewo
   id: 416.3
   pos: adjective
   en_definition: 'monetary, economic, financial, dealing with money'
@@ -1906,7 +1786,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: evokan
+- lemma: ewokan
   id: 417
   pos: adjective
   en_definition: 'rich, having lots of money; expensive, high price'
@@ -1916,7 +1796,7 @@
   etymology: evo + kan
   etym_tags: 'compound, lexical compound'
   etym_source: ''
-- lemma: evokanatel
+- lemma: ewokanatel
   id: 418
   pos: noun
   en_definition: 'rich person, elite'
@@ -1926,7 +1806,7 @@
   etymology: evokan + -(a)tel
   etym_tags: 'compound, derivation'
   etym_source: ''
-- lemma: evometi
+- lemma: ewometi
   id: 419
   pos: noun
   en_definition: 'bank, financial institution'
@@ -2261,6 +2141,16 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
+- lemma: iculu
+  id: 498
+  pos: noun
+  en_definition: 'egg; ovum; testicle, ball'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Kanakanavu ʔicúuru
+  etym_tags: 'kanakanavu, tsouic, austronesian'
+  etym_source: Austronesian Comparative Dictionary
 - lemma: idaman
   id: 80.1
   pos: 'verb, trans.'
@@ -2413,6 +2303,16 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
+- lemma: ili
+  id: 490
+  pos: noun
+  en_definition: 'substance, matter, material; topic, subject, thing to discuss'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Greek ύλη (íli)
+  etym_tags: 'greek, indo-european'
+  etym_source: Wiktionary
 - lemma: ilo
   id: 100
   pos: noun
@@ -2789,16 +2689,6 @@
   etymology: ista til + -(m)eti
   etym_tags: 'compound, derivation, lexical compound'
   etym_source: ''
-- lemma: isulu
-  id: 498
-  pos: noun
-  en_definition: 'egg; ovum; testicle, ball'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Kanakanavu ʔicúuru
-  etym_tags: 'kanakanavu, tsouic, austronesian'
-  etym_source: Austronesian Comparative Dictionary
 - lemma: k-
   id: 105
   pos: correlative prefix
@@ -3609,7 +3499,27 @@
   etymology: German Quarz
   etym_tags: 'german, germanic, indo-european'
   etym_source: Wiktionary
-- lemma: kumva
+- lemma: kulubi
+  id: 238
+  pos: noun
+  en_definition: 'garlic, Allium'
+  en_notes: ''
+  en_tags: 'food, plants'
+  derived: ''
+  etymology: Oromo qullubbii
+  etym_tags: 'oromo, cushitic, afroasiatic'
+  etym_source: Wiktionary
+- lemma: kulubinan
+  id: 239
+  pos: noun
+  en_definition: garlic bread
+  en_notes: ''
+  en_tags: food
+  derived: ''
+  etymology: kulubi + nan
+  etym_tags: 'compound, lexical compound'
+  etym_source: ''
+- lemma: kumwa
   id: 506.1
   pos: 'verb, ambi.'
   en_definition: 'to sense, feel, use one''s senses; to feel (an emotion)'
@@ -3619,7 +3529,7 @@
   etymology: Kirundi kwūmva
   etym_tags: 'kirundi, bantu, atlantic-congo'
   etym_source: Wiktionary
-- lemma: kumva
+- lemma: kumwa
   id: 506.2
   pos: noun
   en_definition: 'sensation, feeling; emotion, feeling'
@@ -3629,7 +3539,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: kumva
+- lemma: kumwa
   id: 507.3
   pos: adjective
   en_definition: 'emotional, touching, heartwarming'
@@ -3681,7 +3591,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: kuveta
+- lemma: kuweta
   id: 315
   pos: numeral
   en_definition: nonillion (10^30)
@@ -3851,7 +3761,7 @@
   etymology: lamiga + yan
   etym_tags: 'compound, lexical compound'
   etym_source: ''
-- lemma: lava
+- lemma: lawa
   id: 187
   pos: noun
   en_definition: lava
@@ -3961,6 +3871,16 @@
   etymology: l- + -idi
   etym_tags: 'compound, derivation'
   etym_source: ''
+- lemma: lik
+  id: 202
+  pos: noun
+  en_definition: metal
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: "Ahom \U0001170E\U00011722\U00011700\U0001172B (lik)"
+  etym_tags: 'ahom, southwestern tai, kra-dai'
+  etym_source: sealang.net
 - lemma: lil
   id: 175
   pos: noun
@@ -3971,16 +3891,6 @@
   etymology: Estonian lill
   etym_tags: 'estonian, finnic, uralic'
   etym_source: Wiktionary
-- lemma: lle
-  id: 202
-  pos: contraction
-  en_definition: 'it exists, it is'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: lel + li + e
-  etym_tags: contraction
-  etym_source: ''
 - lemma: lolin
   id: 475
   pos: noun
@@ -4385,7 +4295,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: mav
+- lemma: maw
   id: 222.1
   pos: 'verb, intr.'
   en_definition: 'to meow, cry out (of a cat)'
@@ -4395,7 +4305,7 @@
   etymology: onomatopoeic
   etym_tags: onomatopoeia
   etym_source: ''
-- lemma: mav
+- lemma: maw
   id: 222.2
   pos: noun
   en_definition: 'cat, feline; meow'
@@ -4405,7 +4315,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: mav
+- lemma: maw
   id: 222.3
   pos: interjection
   en_definition: meow!
@@ -4605,16 +4515,6 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: meso-ak
-  id: 292
-  pos: noun
-  en_definition: '(typography) space, whitespace'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: meso + ak
-  etym_tags: 'compound, lexical compound'
-  etym_source: ''
 - lemma: mesodin
   id: 535
   pos: adjective
@@ -4633,6 +4533,16 @@
   en_tags: ''
   derived: ''
   etymology: meso + fas
+  etym_tags: 'compound, lexical compound'
+  etym_source: ''
+- lemma: mesonak
+  id: 292
+  pos: noun
+  en_definition: '(typography) space, whitespace'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: meso + ak
   etym_tags: 'compound, lexical compound'
   etym_source: ''
 - lemma: mesoyati
@@ -4947,7 +4857,7 @@
   etymology: Lao ໝວກ (mūak)
   etym_tags: 'lao, southwestern tai, kra-dai'
   etym_source: Wiktionary
-- lemma: museli
+- lemma: muceli
   id: 229
   pos: noun
   en_definition: 'abdomen, belly, stomach'
@@ -5595,7 +5505,7 @@
   etymology: oto + yon
   etym_tags: 'compound, lexical compound'
   etym_source: ''
-- lemma: ova
+- lemma: owa
   id: 263.1
   pos: 'verb, ambi.'
   en_definition: 'to finish, end, stop'
@@ -5605,7 +5515,7 @@
   etymology: 'Japanese 終わる [おわる] (owaru)'
   etym_tags: 'japanese, japonic'
   etym_source: Wiktionary
-- lemma: ova
+- lemma: owa
   id: 263.2
   pos: noun
   en_definition: 'end, finality, finish, stopping point'
@@ -5615,7 +5525,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: ovose
+- lemma: owoce
   id: 264
   pos: noun
   en_definition: fruit
@@ -5625,14 +5535,14 @@
   etymology: Czech ovocie
   etym_tags: 'czech, slavic, indo-european'
   etym_source: Wiktionary
-- lemma: ovosemeti
+- lemma: owocemeti
   id: 545
   pos: noun
   en_definition: orchard
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: ovose + -(m)eti
+  etymology: ovoce + -(m)eti
   etym_tags: 'compound, derivation'
   etym_source: ''
 - lemma: oyge
@@ -5687,6 +5597,26 @@
   etymology: Marind pa
   etym_tags: 'marind, anim, papuan'
   etym_source: 'The Coastal Marind Language (Olsson, B. 2017)'
+- lemma: paca
+  id: 274.1
+  pos: noun
+  en_definition: peace
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Esperanto paca
+  etym_tags: 'esperanto, conlangs'
+  etym_source: Wiktionary
+- lemma: paca
+  id: 274.2
+  pos: adjective
+  en_definition: 'peaceful, calm'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+  etym_source: ''
 - lemma: pak
   id: 437
   pos: noun
@@ -5776,26 +5706,6 @@
   derived: ''
   etymology: panlay + bel
   etym_tags: 'compound, lexical compound'
-  etym_source: ''
-- lemma: pasa
-  id: 274.1
-  pos: noun
-  en_definition: peace
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Esperanto paca
-  etym_tags: 'esperanto, conlangs'
-  etym_source: Wiktionary
-- lemma: pasa
-  id: 274.2
-  pos: adjective
-  en_definition: 'peaceful, calm'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
   etym_source: ''
 - lemma: pasi
   id: 458
@@ -5897,17 +5807,17 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: pitisa
+- lemma: pitica
   id: 386.1
   pos: noun
   en_definition: 'bird, poultry'
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: Russian птица
+  etymology: Russian птица (ptica)
   etym_tags: 'russian, slavic, indo-european'
   etym_source: Wiktionary
-- lemma: pitisa
+- lemma: pitica
   id: 386.2
   pos: adjective
   en_definition: 'capable of flight, flying'
@@ -5937,7 +5847,7 @@
   etymology: Czech pole
   etym_tags: 'czech, slavic, indo-european'
   etym_source: Wiktionary
-- lemma: povine
+- lemma: powine
   id: 282.1
   pos: 'verb, modal'
   en_definition: >-
@@ -5949,7 +5859,7 @@
   etymology: Polish powinien
   etym_tags: 'polish, slavic, indo-european'
   etym_source: Wiktionary
-- lemma: povine
+- lemma: powine
   id: 282.2
   pos: noun
   en_definition: 'expectation, advice'
@@ -5959,7 +5869,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: povine
+- lemma: powine
   id: 282.3
   pos: adjective
   en_definition: 'likely, expected; desirable'
@@ -6191,6 +6101,36 @@
   etymology: Darija زعزع (zʕzʕ)
   etym_tags: 'darija, semitic, afroasiatic'
   etym_source: Native speaker
+- lemma: sala
+  id: 493.1
+  pos: 'verb, intr.'
+  en_definition: 'to shine, glow, give off light'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Kaitag шала (šala)
+  etym_tags: 'kaitag, dargin, northeast caucasian'
+  etym_source: Wiktionary
+- lemma: sala
+  id: 493.2
+  pos: noun
+  en_definition: 'light, gleam, glow, illumination; lamp, lightbulb, light; color, hue, tint'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+  etym_source: ''
+- lemma: sala
+  id: 493.3
+  pos: adjective
+  en_definition: 'bright; light (of color); clear, illuminated, easily seen'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+  etym_source: ''
 - lemma: salam
   id: 298
   pos: 'noun, gendered'
@@ -6291,6 +6231,38 @@
   etymology: nisam
   etym_tags: 'a priori, derivation'
   etym_source: ''
+- lemma: sanak
+  id: 317.1
+  pos: 'verb, ambi.'
+  en_definition: 'to sign, e.g. communicate through sign language'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Russian знак (znak)
+  etym_tags: 'russian, slavic, indo-european'
+  etym_source: Wiktionary
+- lemma: sanak
+  id: 317.2
+  pos: noun
+  en_definition: >-
+    sign, mark, symbol, omen; letter, character (i.e. of an alphabet); badge;
+    icon, logo; key (of a keyboard)
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+  etym_source: ''
+- lemma: sanakasu
+  id: 548
+  pos: noun
+  en_definition: alphabet
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: sanak + -(a)su
+  etym_tags: 'compound, derivation'
+  etym_source: ''
 - lemma: sasi
   id: 560
   pos: noun
@@ -6331,7 +6303,7 @@
   etymology: Finnish sato
   etym_tags: 'finnish, finnic, uralic'
   etym_source: Wiktionary
-- lemma: sav
+- lemma: saw
   id: 492.1
   pos: noun
   en_definition: 'morning, AM, daytime; yellow'
@@ -6341,7 +6313,7 @@
   etymology: Lao ເຊົ້າ (sao)
   etym_tags: 'lao, lolo-burmese, tibeto-burman, sino-tibetan'
   etym_source: Wiktionary
-- lemma: sav
+- lemma: saw
   id: 492.2
   pos: adjective
   en_definition: in the morning; early; yellow
@@ -6351,7 +6323,17 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: savesa
+- lemma: sawal
+  id: 388
+  pos: noun
+  en_definition: 'horse, steed'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: French cheval
+  etym_tags: 'french, romance, indo-european'
+  etym_source: Wiktionary
+- lemma: sawesa
   id: 494
   pos: noun
   en_definition: breakfast
@@ -6431,6 +6413,46 @@
   en_tags: ''
   derived: ''
   etymology: sel + -(a)su
+  etym_tags: 'compound, derivation'
+  etym_source: ''
+- lemma: sema
+  id: 361.1
+  pos: 'verb, ambi.'
+  en_definition: 'to listen, hear, listen to'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Hebrew שמע (shemá)
+  etym_tags: 'hebrew, semitic, afroasiatic'
+  etym_source: Wiktionary
+- lemma: sema
+  id: 361.2
+  pos: noun
+  en_definition: 'audio, sound; ear'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+  etym_source: ''
+- lemma: semaga
+  id: 557
+  pos: adjective
+  en_definition: 'loud, blaring'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: sema + -(a)ga
+  etym_tags: 'compound, derivation'
+  etym_source: ''
+- lemma: semanik
+  id: 556
+  pos: adjective
+  en_definition: 'quiet, silent'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: sema + -(n)ik
   etym_tags: 'compound, derivation'
   etym_source: ''
 - lemma: semya
@@ -6789,16 +6811,6 @@
   etymology: si + til
   etym_tags: 'compound, lexical compound'
   etym_source: ''
-- lemma: snakasu
-  id: 548
-  pos: noun
-  en_definition: alphabet
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: snak + -(a)su
-  etym_tags: 'compound, derivation'
-  etym_source: ''
 - lemma: sode
   id: 318
   pos: noun
@@ -6909,6 +6921,36 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
+- lemma: solit
+  id: 375.1
+  pos: 'verb, ambi.'
+  en_definition: 'to work, labor, labour, be employed'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Maltese xogħlijiet
+  etym_tags: 'maltese, semitic, afroasiatic'
+  etym_source: Wiktionary
+- lemma: solit
+  id: 375.2
+  pos: noun
+  en_definition: 'employment, work, labor, labour'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+  etym_source: ''
+- lemma: solit
+  id: 375.3
+  pos: adjective
+  en_definition: 'tiring, exhausting, involving labor'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+  etym_source: ''
 - lemma: som
   id: 125
   pos: correlative
@@ -6969,16 +7011,6 @@
   etymology: Plautdietsch Sot
   etym_tags: 'plautdietsch, germanic, indo-european'
   etym_source: Wiktionary
-- lemma: stof
-  id: 490
-  pos: noun
-  en_definition: 'substance, matter, material; topic, subject, thing to discuss'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Dutch stof
-  etym_tags: 'dutch, germanic, indo-european'
-  etym_source: Wiktionary
 - lemma: sual
   id: 325
   pos: noun
@@ -6998,6 +7030,16 @@
   derived: ''
   etymology: Arabic سكر (sukkar)
   etym_tags: 'arabic, semitic, afroasiatic'
+  etym_source: Wiktionary
+- lemma: sumaw
+  id: 365
+  pos: noun
+  en_definition: panda
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Mandarin 熊貓 (xióngmāo)
+  etym_tags: 'mandarin, sinitic, sino-tibetan'
   etym_source: Wiktionary
 - lemma: susi
   id: 529
@@ -7049,6 +7091,16 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
+- lemma: taca
+  id: 176
+  pos: noun
+  en_definition: summer
+  en_notes: ''
+  en_tags: seasons
+  derived: ''
+  etymology: Panamint tatsa
+  etym_tags: 'panamint, numic, uto-aztecan'
+  etym_source: Wiktionary
 - lemma: taga
   id: 329
   pos: noun
@@ -7089,16 +7141,6 @@
   etymology: talka + -(a)tel; calque of Greek πλανήτης (planétes)
   etym_tags: 'greek, indo-european'
   etym_source: ''
-- lemma: tasa
-  id: 176
-  pos: noun
-  en_definition: summer
-  en_notes: ''
-  en_tags: seasons
-  derived: ''
-  etymology: Panamint tatsa
-  etym_tags: 'panamint, numic, uto-aztecan'
-  etym_source: Wiktionary
 - lemma: tayam
   id: 269
   pos: noun
@@ -7281,7 +7323,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: tinkev
+- lemma: tinkew
   id: 374
   pos: noun
   en_definition: 'cup, goblet, chalice, drinking vessel'
@@ -7514,7 +7556,7 @@
   etymology: u + gata; calque of German Umhang
   etym_tags: 'calque, compound, lexical compound'
   etym_source: ''
-- lemma: ulisa
+- lemma: ulica
   id: 413
   pos: noun
   en_definition: >-
@@ -7629,7 +7671,7 @@
   etymology: uni + kanada
   etym_tags: 'compound, collocation'
   etym_source: ''
-- lemma: univesiti
+- lemma: uniwesiti
   id: 409
   pos: noun
   en_definition: university
@@ -7659,28 +7701,6 @@
   etymology: English USA
   etym_tags: 'english, germanic, indo-european'
   etym_source: Wiktionary
-- lemma: usnak
-  id: 317.1
-  pos: 'verb, ambi.'
-  en_definition: 'to sign, e.g. communicate through sign language'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Russian знак (znak)
-  etym_tags: 'russian, slavic, indo-european'
-  etym_source: Wiktionary
-- lemma: usnak
-  id: 317.2
-  pos: noun
-  en_definition: >-
-    sign, mark, symbol, omen; letter, character (i.e. of an alphabet); badge;
-    icon, logo; key (of a keyboard)
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-  etym_source: ''
 - lemma: usno
   id: 373.1
   pos: noun
@@ -7851,7 +7871,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: vada
+- lemma: wada
   id: 353
   pos: noun
   en_definition: 'sorcerer, magician, witch, wizard'
@@ -7861,7 +7881,7 @@
   etymology: Adyghe уды (wudə)
   etym_tags: 'adyghe, northwest caucasian'
   etym_source: Wiktionary
-- lemma: valu
+- lemma: walu
   id: 160
   pos: numeral
   en_definition: eight
@@ -7871,7 +7891,7 @@
   etymology: Fijian walu
   etym_tags: 'fijian, oceanic, malayo-polynesian, austronesian'
   etym_source: Wiktionary
-- lemma: vangu
+- lemma: wangu
   id: 355.1
   pos: 'verb, ambidi., e-u'
   en_definition: 'to buy, purchase, trade, obtain by exchange'
@@ -7881,7 +7901,7 @@
   etymology: Tamil வாங்கு (vāṅku)
   etym_tags: 'tamil, south dravidian, dravidian'
   etym_source: Wiktionary
-- lemma: vangu
+- lemma: wangu
   id: 355.2
   pos: 'verb, ditrans., e-no'
   en_definition: 'to accept, receive, be gifted, obtain as a gift'
@@ -7891,7 +7911,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: vangu
+- lemma: wangu
   id: 355.3
   pos: noun
   en_definition: 'purchase, acquisition of some item; commodity, merchandise, good; gift'
@@ -7901,7 +7921,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: vangugi
+- lemma: wangugi
   id: 516.1
   pos: 'verb, trans., e-til'
   en_definition: to sell
@@ -7911,7 +7931,7 @@
   etymology: vangu + -(i)gi
   etym_tags: 'compound, derivation'
   etym_source: ''
-- lemma: vangugi
+- lemma: wangugi
   id: 516.2
   pos: noun
   en_definition: 'sale, purchase'
@@ -7921,7 +7941,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: vangumeti
+- lemma: wangumeti
   id: 267
   pos: noun
   en_definition: 'market, shop, store'
@@ -7931,7 +7951,7 @@
   etymology: vangu + -(m)eti
   etym_tags: 'compound, derivation'
   etym_source: ''
-- lemma: vanuca
+- lemma: wanusa
   id: 60.1
   pos: 'verb, trans.'
   en_definition: 'to inspire, incite, invigorate, arouse; to convince, persuade'
@@ -7941,7 +7961,7 @@
   etymology: Russian внушать (vnušat')
   etym_tags: 'russian, slavic, indo-european'
   etym_source: Wiktionary
-- lemma: vanuca
+- lemma: wanusa
   id: 60.2
   pos: noun
   en_definition: 'inspiration, motivation; persuasion'
@@ -7951,7 +7971,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: vay
+- lemma: way
   id: 354.1
   pos: noun
   en_definition: (talkatel~) Mercury; (taga~) Wednesday
@@ -7961,7 +7981,7 @@
   etymology: Lao ໄວ (wai)
   etym_tags: 'lao, southwestern tai, kra-dai'
   etym_source: Wiktionary
-- lemma: vay
+- lemma: way
   id: 354.2
   pos: adjective
   en_definition: 'fast, fast-paced, quick, quickly'
@@ -7971,7 +7991,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: vayan
+- lemma: wayan
   id: 364
   pos: noun
   en_definition: 'root (of a plant); root (of a word), radical'
@@ -7981,7 +8001,7 @@
   etymology: Githabul wayan
   etym_tags: 'githabul, bandjalangic, pama-nyungan'
   etym_source: Unknown
-- lemma: ven
+- lemma: wen
   id: 356.1
   pos: 'verb, ambi.'
   en_definition: 'to warm up, raise in temperature'
@@ -7991,7 +8011,7 @@
   etymology: Mandarin 溫 (wēn)
   etym_tags: 'mandarin, sinitic, sino-tibetan'
   etym_source: Wiktionary
-- lemma: ven
+- lemma: wen
   id: 356.2
   pos: noun
   en_definition: 'heat, temperature'
@@ -8001,7 +8021,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: ven
+- lemma: wen
   id: 356.3
   pos: adjective
   en_definition: warm
@@ -8011,7 +8031,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: venam
+- lemma: wenam
   id: 252
   pos: noun
   en_definition: 'lake, inland sea'
@@ -8021,7 +8041,7 @@
   etymology: Wik-Mungkan weenam
   etym_tags: 'wik-mungkan, wik, paman, pama-nyungan'
   etym_source: Wik Mungkan lexicon (ausil.org)
-- lemma: vi
+- lemma: wi
   id: 469.1
   pos: 'verb, intr.'
   en_definition: 'to live, survive, be living'
@@ -8031,7 +8051,7 @@
   etymology: French vie
   etym_tags: 'french, romance, indo-european'
   etym_source: Wiktionary
-- lemma: vi
+- lemma: wi
   id: 469.2
   pos: noun
   en_definition: 'life, the act of living; health, condition'
@@ -8041,7 +8061,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: vi
+- lemma: wi
   id: 469.3
   pos: adjective
   en_definition: 'alive, living, animated'
@@ -8051,7 +8071,7 @@
   etymology: ''
   etym_tags: ''
   etym_source: ''
-- lemma: video
+- lemma: wideo
   id: 357
   pos: noun
   en_definition: video
@@ -8061,7 +8081,7 @@
   etymology: Latin videō
   etym_tags: 'latin, romance, indo-european'
   etym_source: Wiktionary
-- lemma: vilin
+- lemma: wilin
   id: 470
   pos: noun
   en_definition: 'biology, study of life'
@@ -8351,26 +8371,6 @@
   etymology: yo + taga
   etym_tags: 'compound, lexical compound'
   etym_source: ''
-- lemma: yua
-  id: 238
-  pos: noun
-  en_definition: 'garlic, Allium'
-  en_notes: ''
-  en_tags: 'food, plants'
-  derived: ''
-  etymology: Eastern Mari юа (jua)
-  etym_tags: 'eastern mari, mordvinic, uralic'
-  etym_source: Wiktionary
-- lemma: yuanan
-  id: 239
-  pos: noun
-  en_definition: garlic bread
-  en_notes: ''
-  en_tags: food
-  derived: ''
-  etymology: yua + nan
-  etym_tags: 'compound, lexical compound'
-  etym_source: ''
 - lemma: yun
   id: 104
   pos: noun
@@ -8381,7 +8381,7 @@
   etymology: Burmese ယုန် (yun)
   etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
   etym_source: Wiktionary
-- lemma: yuva
+- lemma: yuwa
   id: 372.1
   pos: noun
   en_definition: 'good, goodness, niceness; politeness, manners'
@@ -8391,7 +8391,7 @@
   etymology: Livonian jõvā
   etym_tags: 'livonian, finnic, uralic'
   etym_source: Wiktionary
-- lemma: yuva
+- lemma: yuwa
   id: 372.2
   pos: adjective
   en_definition: 'good, well, exemplary, nice; well-mannered, polite'
