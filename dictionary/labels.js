@@ -6,6 +6,7 @@ const field_label_map = {
 	"en_definition": "Definition",
 	"en_notes": "Notes",
 	"en_tags": "Tags",
+	"lang_code": "ISO-639 codes",
 	"etym_source": "Etymology source",
 	"de_definition": "Definition (German)",
 	"de_notes": "Notes (German)",
